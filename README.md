@@ -6,7 +6,7 @@ Repositori ini berisi kumpulan praktikum **Pemrograman Berorientasi Objek (OOP)*
 
 ## Daftar Folder
 
-| No | Folder / Study Case | Konsep Utama | Apa yang Dipelajari |
+| No | Folder | Konsep Utama | Apa yang Dipelajari |
 |----|---------------------|--------------|----------------------|
 | 1 | `Object & Class/` | Class sebagai cetak biru & instance | Definisi class, atribut, constructor, method, membuat object dengan `new` |
 | 2 | `Parameter/` | Parameter pada metode | Cara mengirim nilai ke dalam metode saat dipanggil |
