@@ -75,4 +75,4 @@ Object & Class  →  Parameter  →  Constructor  →  Encapsulation  →  Inher
 
 ---
 
-> 📝 Dibuat sebagai bagian dari praktikum mata kuliah **Pemrograman Berorientasi Objek**
+> 📝 Dibuat sebagai bagian dari praktikum mata kuliah **Bahasa Pemrograman 1 / Pemrograman Berorientasi Objek (OOP)**
